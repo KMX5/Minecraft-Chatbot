@@ -1,0 +1,7 @@
+Leben 10
+Spawn Wiesen-mit-Lichtlevel-9<
+Drops Schweinefleisch
+Version Survival-Test0.24
+Lebensweise Passiv
+Zähmbarkeit Mit-Karotten
+Besonderheiten Keine

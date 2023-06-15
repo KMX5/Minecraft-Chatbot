@@ -1,0 +1,7 @@
+Leben 8Hz
+Spawn Lichtlevel<12
+Version 0.26
+Zähmbarkeit Nein
+Lebensweise neutral/aggressiv
+Drop Spinnenauge,Fäden
+Besonderheiten Unsichtbarkeitstrank

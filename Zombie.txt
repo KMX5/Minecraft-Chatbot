@@ -1,0 +1,7 @@
+Leben 20
+Spawn Lichtlevel-Max.0
+Drops Verrottetes-Fleisch,Eisenbarren,Karotte,Kartoffel
+Version Alpha0.2.0
+Besonderheiten BabyZombie,ZombieVilligar,Verbrennt-in-der-Sonne
+Lebensweise Aggressiv
+Zähmbarkeit Nein
